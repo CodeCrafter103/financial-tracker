@@ -1,2 +1,2 @@
 # financial-tracker
-An Advanced Web-Based SoluƟon for Financial Management
+An Advanced Web-Based Solution for Financial Management

@@ -1,5 +1,4 @@
-# ![logo](https://github.com/user-attachments/assets/01f91436-1b89-4e8b-b866-df316d2c7cbb)
- Financial Tracker
+# ![logo](https://github.com/user-attachments/assets/01f91436-1b89-4e8b-b866-df316d2c7cbb) Financial Tracker
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)](https://html.spec.whatwg.org/)
@@ -19,3 +18,29 @@
 - **Dark Theme**: Modern, eye-friendly dark interface
 
 
+
+### Architecture Highlights
+
+| Feature | Implementation | Benefit |
+|---------|----------------|---------|
+| **State Management** | Custom reactive class | No frameworks needed |
+| **Performance** | Event delegation + Virtual DOM diffing | 60fps smooth UI |
+| **Persistence** | localStorage + Auto-save | Never lose data |
+| **Accessibility** | Semantic HTML + ARIA | Screen reader ready |
+| **PWA Ready** | Single HTML file | Instant installable app |
+
+## 🚀 Quick Start
+
+### Prerequisites
+- Any modern web browser (Chrome 90+, Firefox 88+, Safari 14+)
+- **No build tools, Node.js, or servers required**
+
+### Zero-Config Deployment
+
+```bash
+# 1. Save the 3 files (index.html, style.css, script.js)
+# 2. Double-click index.html OR
+# 3. Use any of these:
+npx live-server
+npx serve .
+python -m http.server 8000

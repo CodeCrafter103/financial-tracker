@@ -34,12 +34,6 @@
 
 ## 🚀 Quick Start
 
-### Prerequisites
-- Any modern web browser (Chrome 90+, Firefox 88+, Safari 14+)
-- **No build tools, Node.js, or servers required**
-
-### Zero-Config Deployment
-
 ```bash
 # 1. Save the 3 files (index.html, style.css, script.js)
 # 2. Double-click index.html OR

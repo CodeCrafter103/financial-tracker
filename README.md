@@ -17,11 +17,4 @@
 - **Fast Performance**: No external dependencies, instant updates
 - **Dark Theme**: Modern, eye-friendly dark interface
 
-## 📱 Live Preview
-
-| Desktop View | Mobile View |
-|--------------|-------------|
-| ![Desktop](screenshots/desktop.png) | ![Mobile](screenshots/mobile.png) |
-
-## 🛠 Tech Stack
 

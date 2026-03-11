@@ -1,4 +1,5 @@
-# Financial Tracker
+# ![logo](https://github.com/user-attachments/assets/01f91436-1b89-4e8b-b866-df316d2c7cbb)
+ Financial Tracker
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)](https://html.spec.whatwg.org/)
